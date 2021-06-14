@@ -1,0 +1,276 @@
+System Informations : 
+Hostname	: ubuntu
+processor	: 0
+vendor_id	: GenuineIntel
+model		: 142
+model name	: Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz
+cache size	: 6144 KB
+
+------------------------------
+List of all users and group they are associated with : 
+
+------------------------------
+
+------------------------------
+User: 0	 Group: 0
+root	root
+------------------------------
+
+------------------------------
+User: 1	 Group: 1
+daemon	daemon
+------------------------------
+
+------------------------------
+User: 2	 Group: 2
+bin	bin
+------------------------------
+
+------------------------------
+User: 3	 Group: 3
+sys	sys
+------------------------------
+
+------------------------------
+User: 4	 Group: 65534
+sync	sync
+------------------------------
+
+------------------------------
+User: 5	 Group: 60
+games	games
+------------------------------
+
+------------------------------
+User: 6	 Group: 12
+man	man
+------------------------------
+
+------------------------------
+User: 7	 Group: 7
+lp	lp
+------------------------------
+
+------------------------------
+User: 8	 Group: 8
+mail	mail
+------------------------------
+
+------------------------------
+User: 9	 Group: 9
+news	news
+------------------------------
+
+------------------------------
+User: 10	 Group: 10
+uucp	uucp
+------------------------------
+
+------------------------------
+User: 13	 Group: 13
+proxy	proxy
+------------------------------
+
+------------------------------
+User: 33	 Group: 33
+www-data	www-data
+------------------------------
+
+------------------------------
+User: 34	 Group: 34
+backup	backup
+------------------------------
+
+------------------------------
+User: 38	 Group: 38
+list	Mailing List Manager
+------------------------------
+
+------------------------------
+User: 39	 Group: 39
+irc	ircd
+------------------------------
+
+------------------------------
+User: 41	 Group: 41
+gnats	Gnats Bug-Reporting System (admin)
+------------------------------
+
+------------------------------
+User: 65534	 Group: 65534
+nobody	nobody
+------------------------------
+
+------------------------------
+User: 100	 Group: 102
+systemd-network	systemd Network Management,,,
+------------------------------
+
+------------------------------
+User: 101	 Group: 103
+systemd-resolve	systemd Resolver,,,
+------------------------------
+
+------------------------------
+User: 102	 Group: 106
+syslog	
+------------------------------
+
+------------------------------
+User: 103	 Group: 107
+messagebus	
+------------------------------
+
+------------------------------
+User: 104	 Group: 65534
+_apt	
+------------------------------
+
+------------------------------
+User: 105	 Group: 111
+uuidd	
+------------------------------
+
+------------------------------
+User: 106	 Group: 112
+avahi-autoipd	Avahi autoip daemon,,,
+------------------------------
+
+------------------------------
+User: 107	 Group: 46
+usbmux	usbmux daemon,,,
+------------------------------
+
+------------------------------
+User: 108	 Group: 65534
+dnsmasq	dnsmasq,,,
+------------------------------
+
+------------------------------
+User: 109	 Group: 114
+rtkit	RealtimeKit,,,
+------------------------------
+
+------------------------------
+User: 110	 Group: 116
+cups-pk-helper	user for cups-pk-helper service,,,
+------------------------------
+
+------------------------------
+User: 111	 Group: 29
+speech-dispatcher	Speech Dispatcher,,,
+------------------------------
+
+------------------------------
+User: 112	 Group: 117
+whoopsie	
+------------------------------
+
+------------------------------
+User: 113	 Group: 65534
+kernoops	Kernel Oops Tracking Daemon,,,
+------------------------------
+
+------------------------------
+User: 114	 Group: 119
+saned	
+------------------------------
+
+------------------------------
+User: 115	 Group: 120
+pulse	PulseAudio daemon,,,
+------------------------------
+
+------------------------------
+User: 116	 Group: 122
+avahi	Avahi mDNS daemon,,,
+------------------------------
+
+------------------------------
+User: 117	 Group: 123
+colord	colord colour management daemon,,,
+------------------------------
+
+------------------------------
+User: 118	 Group: 7
+hplip	HPLIP system user,,,
+------------------------------
+
+------------------------------
+User: 119	 Group: 124
+geoclue	
+------------------------------
+
+------------------------------
+User: 120	 Group: 65534
+gnome-initial-setup	
+------------------------------
+
+------------------------------
+User: 121	 Group: 125
+gdm	Gnome Display Manager
+------------------------------
+
+------------------------------
+User: 1000	 Group: 1000
+student	ICT-Ubuntu18.04LTS,,,
+------------------------------
+
+------------------------------
+User: 122	 Group: 127
+lightdm	Light Display Manager
+------------------------------
+
+------------------------------
+User: 1001	 Group: 1001
+user1	
+------------------------------
+
+------------------------------
+User: 999	 Group: 1002
+mysql	
+------------------------------
+
+------------------------------
+User: 1002	 Group: 1003
+ranga	
+------------------------------
+ [ + ]  acpid
+ [ - ]  alsa-utils
+ [ - ]  anacron
+ [ + ]  apparmor
+ [ + ]  apport
+ [ + ]  avahi-daemon
+ [ + ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ + ]  cups
+ [ + ]  cups-browsed
+ [ + ]  dbus
+ [ - ]  dns-clean
+ [ - ]  gdm3
+ [ + ]  grub-common
+ [ - ]  hwclock.sh
+ [ - ]  irqbalance
+ [ + ]  kerneloops
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ + ]  lightdm
+ [ + ]  network-manager
+ [ + ]  networking
+ [ + ]  open-vm-tools
+ [ - ]  plymouth
+ [ - ]  plymouth-log
+ [ - ]  pppd-dns
+ [ + ]  procps
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ - ]  saned
+ [ + ]  speech-dispatcher
+ [ - ]  spice-vdagent
+ [ + ]  udev
+ [ + ]  ufw
+ [ + ]  unattended-upgrades
+ [ - ]  uuidd
+ [ + ]  whoopsie
+ [ - ]  x11-common
